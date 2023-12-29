@@ -81,7 +81,7 @@ export default function Qualification() {
                             Tunisia - Institute
                         </span>
                         <div className="qualification__calendar">
-                        <i class="ri-calendar-2-line"></i> 2021 - Present
+                        <i class="ri-calendar-2-line"></i> 2023 - 2024
                         </div>
                     </div>
                 </div>
