@@ -6,7 +6,7 @@ export const projectsData =[
     {
         id:1,
         image: angularBlogPost,
-        title:'Web Site',
+        title:'BlogPost web site using angular ',
         lien:'',
         category:'web'
     },
@@ -20,16 +20,16 @@ export const projectsData =[
     {
         id:3,
         image: phpPro ,
-        title:'Web Site',
+        title:'BlogPost web site using Php and sql',
         lien:'https://blogpostproj.000webhostapp.com/view/HomePage.php',
-        category:'App'
+        category:'web'
     },
     {
         id:4,
         image: django1 ,
-        title:'Web App',
+        title:'yakht managment web site using django framework',
         lien:'',
-        category:'App'
+        category:'web'
     }
 ];
 export const projectsNav=[
