@@ -7,7 +7,7 @@ export const projectsData =[
         id:1,
         image: angularBlogPost,
         title:'Web Site',
-        lien:'https://blogpostproj.000webhostapp.com/view/HomePage.php',
+        lien:'',
         category:'web'
     },
     {
@@ -28,7 +28,7 @@ export const projectsData =[
         id:4,
         image: django1 ,
         title:'Web App',
-        lien:'https://blogpostproj.000webhostapp.com/view/HomePage.php',
+        lien:'',
         category:'App'
     }
 ];
