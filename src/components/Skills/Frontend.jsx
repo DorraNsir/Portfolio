@@ -13,7 +13,7 @@ export default function Frontend() {
             <i class="ri-verified-badge-line"></i>
             <div>
               <h3 className="skills__name">HTML</h3>  
-              <span className="skills__level">Basic</span>
+              <span className="skills__level">Advanced</span>
             </div>
           </div>
 

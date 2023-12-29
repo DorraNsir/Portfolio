@@ -27,7 +27,7 @@ export const projectsData =[
     {
         id:4,
         image: django1 ,
-        title:'yakht managment web site using django framework',
+        title:'yakht managment web site using django',
         lien:'',
         category:'web'
     }
