@@ -42,12 +42,12 @@ export default function Header() {
                   Skills
                 </a>
               </li>
-              <li className='nav__item'>
+              {/* <li className='nav__item'>
                 <a href='#services' onClick={()=> setActiveNav('#services')} 
                 className={activeNav==="#services"?'nav__link active-link':'nav__link'}>
                 <i class="ri-briefcase-2-line nav__icon"></i>Services
                 </a>
-              </li>
+              </li> */}
               <li className='nav__item'>
                 <a href='#portfolio' onClick={()=> setActiveNav('#portfolio')} 
                 className={activeNav==="#portfolio"?'nav__link active-link':'nav__link'}>
