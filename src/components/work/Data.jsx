@@ -14,7 +14,7 @@ export const projectsData =[
         id:2,
         image: witcher,
         title:'Web design',
-        lien:'https://blogpostproj.000webhostapp.com/view/HomePage.php',
+        lien:'https://the-witcher-ljpn.vercel.app/',
         category:'design'
     },
     {
