@@ -5,8 +5,8 @@
     column-gap: 4rem;
 }
 .about__img{
-    width: 350px;
-    border-radius: 5.5rem;
+    width: 250px;
+    border-radius: 4.5rem;
     justify-self: center;
 }
 .about__info{
