@@ -23,6 +23,13 @@
     font-family: 'Dancing Script', cursive;
     font-size: 50px;
     
+     /* background: url(../../assets/images/dorra.png);
+     background-position: center;
+     background-size: cover;
+     
+     justify-self: center;
+     width: 200px;
+     height: 200px;  */
 }
 .nav__logo,
 .nav__toggle{
